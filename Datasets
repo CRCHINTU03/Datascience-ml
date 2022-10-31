@@ -1,5 +1,5 @@
-https://github.com/GoogleCloudPlatform/covid-19-open-data/blob/main/docs/table-by-sex.md 
+by-sex dataset = https://storage.googleapis.com/covid19-open-data/v3/by-sex.csv
 
-https://github.com/GoogleCloudPlatform/covid-19-open-data/blob/main/docs/table-epidemiology.md 
+epidemiology = https://storage.googleapis.com/covid19-open-data/v3/epidemiology.csv
 
-https://github.com/GoogleCloudPlatform/covid-19-open-data/blob/main/docs/table-hospitalizations.md 
+hospitalizations = https://storage.googleapis.com/covid19-open-data/v3/hospitalizations.csv
