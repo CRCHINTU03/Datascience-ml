@@ -31,7 +31,8 @@ The data used for this project is gathered from "Google Covid-19 Open Data", the
 
 For the given project we are choosing 3 data sets from the Google Covid-19 Open Raw Data named as Hospitalizations, Epidemiology and By sex(Gender) where Epidemiology and Hospitalizations values are stratified with by_sex dataset based on the columns Name, Type and description to find relation between various columns and visualize, plot the values to find specific outcomes.
 
-Summary
+**Summary**
+
 Here from the analysis we have done we can see that there are high covid cases in 2021 than 2020 and 2022
 From newly confirmed cases we see that females were more effected than males
 From newly recovered cases we see that females were more effected than males
