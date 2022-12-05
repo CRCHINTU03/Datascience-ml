@@ -12,9 +12,9 @@ Medisetti Sudhindhra
 
 Coronaviruses are a family of related RNA viruses that infect both mammals and birds and cause sickness. They can cause mild to fatal respiratory tract infections in both people and birds. Some cases of the common cold in humans (which is also brought on by other viruses, primarily rhinoviruses), while more deadly types can bring about SARS, MERS, and COVID-19, which is driving the ongoing pandemic. They cause diarrhea in pigs and cows and hepatitis and encephalomyelitis in mice.
 
-On January 30, 2020, and March 11, 2020, respectively, the World Health Organization (WHO) formally declared the SARS-CoV-2 outbreak a Public Health Emergency of International Concern. WHO recommended nations to use stringent social segregation and quarantine measures to protect public from the virus spread.
+On January 30, 2020, and March 11, 2020, respectively, the World Health Organization (WHO) formally declared the SARS-CoV-2 outbreak a Public Health Emergency of International Concern. WHO recommended nations to use stringent social segregation and quarantine measures to protect public from the virus spread. Covid-19 has severely affected the lives of people around the world, it is like the world has been stopped for a short period of time due to the lockdown and rise of covid cases around the various places on this planet. 
 
-Covid-19 has severely affected the lives of people around the world it is like the world has been stopped for like a short period due to the lockdown and rise of covid cases around the various places on this planet. Here in this project, we can able to see how many humans were affected with covid 19 virus and perform analysis to check how males are affected, and the females. We plot the analysis charts for the cases recorded and try to get a sense of the outcome like which section of people are affected worse and their patterns for the spread of the covid-19. Along with we are trying to find what is the number of people reported to have been admitted and among which are trying to segregate(divide) into different categories and get an understanding of how hospitalization affects people’s health conditions. By finding these results, we can predict and analyse how a pandemic affects the world's health condition and population.
+Here in this project, we can able to see how many humans were affected with covid 19 virus and perform analysis to check how males are affected, and the females. We plot the analysis charts for the cases recorded and try to get a sense of the outcome like which section of people are affected worse and their patterns for the spread of the covid-19. Along with we are trying to find what is the number of people reported to have been admitted and among which are trying to segregate(divide) into different categories and get an understanding of how hospitalization affects people’s health conditions. Based on tested, confirmed, tested, deceased cases count we have developed a model to predict what is happening per year due to corona virus also By finding these results, we can predict and analyse how a pandemic affects the world's health condition and population.
 
 **LITERATURE REVIEW**
 
@@ -33,12 +33,17 @@ For the given project we are choosing 3 data sets from the Google Covid-19 Open 
 
 **Summary**
 
-Here from the analysis we have done we can see that there are high covid cases in 2021 than 2020 and 2022
-From newly confirmed cases we see that females were more effected than males
-From newly recovered cases we see that females were more effected than males
-From newly deceased cases we see that males were more effected than females
-From this analysis we can develop a model which can be used to predict an affect of a pandeic on male and female seperately.
+Here from the analysis we can see that there are high covid cases in 2021 than 2020 and 2022<br>
+From newly confirmed cases we see that females were more effected than males<br>
+From newly recovered cases we see that females were more effected than males<br>
+From newly deceased cases we see that males were more effected than females<br>
+Along that we predict the accuracy for the the respective columns and come to a conclusion that Random forest would be the ideal for the Prediction. Based on the prediction outcomes the key stakeholders could come to any idea that covid has spread rapidly and those areas the stakeholders in our case it could be the government could build new hospitals for future case if requried incase any future outbreak. While other stakeholder could the public they can have a overview of how covid spread for the people based on there gender and age and see what focus groups are heavily affected and by the outcome that people who come to this focus group can take extra precuations in future incase of any outbreak. 
 
+Our project provides Implications to the stakeholders of what happened during the covid-19 outbreak and thus they could benefit by having thought of how can we restrict the spread and also which areas have heavily affected and which section of ages section have affected compared to others.
+
+**Conclusion*
+
+In this work, we have done analysis based on machine learning in covid-19 open raw data. By measuring the accuracy of different algorithms, we found that the most suitable algorithm for predicting drugs based on various conditions is Random Forest. We believe that employing more sophisticated features and applying more powerful machine learning models, deep learning approaches can help to enhance the performance of the system.
 
 
 
