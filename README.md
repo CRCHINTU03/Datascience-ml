@@ -41,7 +41,7 @@ Along that we predict the accuracy for the the respective columns and come to a 
 
 Our project provides Implications to the stakeholders of what happened during the covid-19 outbreak and thus they could benefit by having thought of how can we restrict the spread and also which areas have heavily affected and which section of ages section have affected compared to others.
 
-**Conclusion*
+**Conclusion**
 
 In this work, we have done analysis based on machine learning in covid-19 open raw data. By measuring the accuracy of different algorithms, we found that the most suitable algorithm for predicting drugs based on various conditions is Random Forest. We believe that employing more sophisticated features and applying more powerful machine learning models, deep learning approaches can help to enhance the performance of the system.
 
